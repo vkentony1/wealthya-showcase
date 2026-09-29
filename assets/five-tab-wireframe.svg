@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="t d">
+  <title id="t">Illustrative wireframe of the Wealthya native app navigation</title>
+  <desc id="d">A phone outline with five tabs: Overview, Assets, Watchlist, Market and Copilot. This is a wireframe, not a screenshot.</desc>
+  <rect x="0.5" y="0.5" width="899" height="559" rx="18" fill="#f8fafc" stroke="#cbd5e1"/>
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="40" y="44" font-size="20" font-weight="700" fill="#0f172a">Native app: navigation structure</text>
+    <text x="40" y="66" font-size="13" fill="#475569">Illustrative wireframe, not a product screenshot. No real data is shown.</text>
+    <rect x="70" y="92" width="270" height="440" rx="34" fill="#0f172a"/>
+    <rect x="82" y="104" width="246" height="416" rx="26" fill="#ffffff"/>
+    <text x="102" y="140" font-size="16" font-weight="700" fill="#0f172a">Overview</text>
+    <rect x="102" y="158" width="206" height="86" rx="12" fill="#e2e8f0"/>
+    <rect x="116" y="174" width="90" height="10" rx="5" fill="#94a3b8"/>
+    <rect x="116" y="196" width="140" height="18" rx="6" fill="#64748b"/>
+    <rect x="116" y="222" width="110" height="8" rx="4" fill="#94a3b8"/>
+    <rect x="102" y="258" width="206" height="52" rx="12" fill="#fef3c7"/>
+    <rect x="116" y="272" width="120" height="8" rx="4" fill="#d97706"/>
+    <rect x="116" y="288" width="160" height="8" rx="4" fill="#fbbf24"/>
+    <rect x="102" y="324" width="206" height="40" rx="10" fill="#f1f5f9"/>
+    <rect x="102" y="376" width="206" height="40" rx="10" fill="#f1f5f9"/>
+    <rect x="102" y="428" width="206" height="40" rx="10" fill="#f1f5f9"/>
+    <line x1="82" y1="474" x2="328" y2="474" stroke="#e2e8f0"/>
+    <g text-anchor="middle" font-size="9" fill="#64748b">
+      <circle cx="107" cy="491" r="7" fill="#2563eb"/><text x="107" y="512" fill="#2563eb" font-weight="700">Overview</text>
+      <circle cx="156" cy="491" r="7" fill="#94a3b8"/><text x="156" y="512">Assets</text>
+      <circle cx="205" cy="491" r="7" fill="#94a3b8"/><text x="205" y="512">Watchlist</text>
+      <circle cx="254" cy="491" r="7" fill="#94a3b8"/><text x="254" y="512">Market</text>
+      <circle cx="303" cy="491" r="7" fill="#94a3b8"/><text x="303" y="512">Copilot</text>
+    </g>
+    <g fill="#0f172a">
+      <circle cx="430" cy="130" r="16" fill="#2563eb"/><text x="430" y="136" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">1</text>
+      <text x="460" y="128" font-size="17" font-weight="700">Overview</text>
+      <text x="460" y="150" font-size="14" fill="#334155">Portfolio summary and alerts that need attention</text>
+      <circle cx="430" cy="206" r="16" fill="#2563eb"/><text x="430" y="212" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">2</text>
+      <text x="460" y="204" font-size="17" font-weight="700">Assets</text>
+      <text x="460" y="226" font-size="14" fill="#334155">Add, edit and review records; offline drafts sync later</text>
+      <circle cx="430" cy="282" r="16" fill="#2563eb"/><text x="430" y="288" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">3</text>
+      <text x="460" y="280" font-size="17" font-weight="700">Watchlist</text>
+      <text x="460" y="302" font-size="14" fill="#334155">Instruments the owner wants to keep an eye on</text>
+      <circle cx="430" cy="358" r="16" fill="#2563eb"/><text x="430" y="364" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">4</text>
+      <text x="460" y="356" font-size="17" font-weight="700">Market</text>
+      <text x="460" y="378" font-size="14" fill="#334155">Quotes labelled with source, time and freshness</text>
+      <circle cx="430" cy="434" r="16" fill="#2563eb"/><text x="430" y="440" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">5</text>
+      <text x="460" y="432" font-size="17" font-weight="700">Copilot</text>
+      <text x="460" y="454" font-size="14" fill="#334155">Ask questions; research with cited sources</text>
+    </g>
+  </g>
+</svg>
