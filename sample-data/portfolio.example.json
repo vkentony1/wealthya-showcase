@@ -1,0 +1,26 @@
+{
+  "sampleType": "synthetic",
+  "notice": "Invented demonstration data. No real person, account, asset, or balance is represented.",
+  "currency": "USD",
+  "asOf": "2026-01-01",
+  "items": [
+    {
+      "name": "Example Equity Fund",
+      "category": "fund",
+      "illustrativeValue": 50000,
+      "illustrativeWeightPercent": 50
+    },
+    {
+      "name": "Example Property A",
+      "category": "property",
+      "illustrativeValue": 30000,
+      "illustrativeWeightPercent": 30
+    },
+    {
+      "name": "Example Cash Account",
+      "category": "cash",
+      "illustrativeValue": 20000,
+      "illustrativeWeightPercent": 20
+    }
+  ]
+}
