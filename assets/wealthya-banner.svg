@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Wealthya</title>
+  <desc id="d">Wealthya: AI-assisted asset intelligence for human decisions. Decision support, not trading.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#1e3a5f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <g fill="none" stroke="#38bdf8" stroke-opacity="0.45" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="760,220 840,178 920,196 1000,128 1080,148 1140,86"/>
+  </g>
+  <g fill="#38bdf8" fill-opacity="0.7">
+    <circle cx="760" cy="220" r="6"/>
+    <circle cx="840" cy="178" r="6"/>
+    <circle cx="920" cy="196" r="6"/>
+    <circle cx="1000" cy="128" r="6"/>
+    <circle cx="1080" cy="148" r="6"/>
+    <circle cx="1140" cy="86" r="6"/>
+  </g>
+  <text x="64" y="128" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#f8fafc">Wealthya</text>
+  <text x="64" y="176" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#cbd5e1">AI-assisted asset intelligence for human decisions</text>
+  <g font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" fill="#e2e8f0" text-anchor="middle">
+    <rect x="64" y="208" width="130" height="36" rx="18" fill="#ffffff" fill-opacity="0.12"/>
+    <text x="129" y="231">Local-first</text>
+    <rect x="206" y="208" width="190" height="36" rx="18" fill="#ffffff" fill-opacity="0.12"/>
+    <text x="301" y="231">Web + native app</text>
+    <rect x="408" y="208" width="300" height="36" rx="18" fill="#ffffff" fill-opacity="0.12"/>
+    <text x="558" y="231">Decision support, not trading</text>
+  </g>
+</svg>
