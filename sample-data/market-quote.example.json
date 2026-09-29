@@ -1,0 +1,26 @@
+{
+  "sampleType": "synthetic",
+  "notice": "Invented demonstration data. It shows the shape of a source-labelled quote. No real provider, instrument, price or account is represented.",
+  "quotes": [
+    {
+      "instrument": "Example Equity Fund",
+      "price": 100.0,
+      "currency": "USD",
+      "provider": "Example Data Provider (synthetic)",
+      "marketState": "closed",
+      "observedAt": "2026-01-01T09:00:00Z",
+      "staleness": "last-session",
+      "licenseScope": "illustrative-only"
+    },
+    {
+      "instrument": "Example Property A",
+      "price": null,
+      "currency": "USD",
+      "provider": "Owner-entered valuation (synthetic)",
+      "marketState": "not-applicable",
+      "observedAt": "2025-12-15T00:00:00Z",
+      "staleness": "manual-estimate",
+      "licenseScope": "owner-provided"
+    }
+  ]
+}
